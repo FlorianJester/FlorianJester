@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Rust, C++ and Linux**
 
-- 👀 I’m interested in **Programming, Data Science, Linux, Docker and Databases**
+- 👀 I’m interested in **Software Development, Data Science, Linux, Docker and Databases**
 
 - 📫 How to reach me **florianjester@gmail.com**
 
