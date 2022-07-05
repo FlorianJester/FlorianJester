@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">Programmer, Soon to be CS/SE Student and open to learn new things that interest me</h3>
+<h3 align="center">Programmer, Soon to be CS/SE Student and open to learn new things that interest me</h3><br/>
 
 - 🌱 I’m currently learning **Python, Rust, C++ and Linux**
 
 - 👀 I’m interested in **Programming, Data Science, Linux, Docker and Databases**
 
 - 📫 How to reach me **florianjester@gmail.com**
-
+<br/>
 <h3 align="left">Languages ,Tools and Information to get in contact with me:</h3>
 
 <h4 align="left">Programming:</h4>
