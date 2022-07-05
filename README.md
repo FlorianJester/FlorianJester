@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **florianjester@gmail.com**
 <br/>
-<h3 align="left">Languages ,Tools and Information to get in contact with me:</h3>
+<h3 align="left">Languages, Tools and information to get in contact with me:</h3>
 
 <h4 align="left">Programming:</h4>
 
