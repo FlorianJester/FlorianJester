@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">Programmer, Soon to be CS/SE Student and open to learn new things that interest me</h3><br/>
+<h3 align="center">Programmer, CS/SE Student at FH Upper Austria campuses in Hagenberg and open to learn new things that interest me</h3><br/>
 
-- 🌱 I’m currently learning **Python, Rust, C++ and Linux**
+- 🌱 I’m currently learning **Python, Rust, React and Linux**
 
-- 👀 I’m interested in **Programming, Data Science, Linux, Docker and Databases**
+- 👀 I’m interested in **Programming, Data Science, Web Development, Linux, Docker and Databases**
 
 - 📫 How to reach me **florianjester@gmail.com**
 <br/>
